@@ -106,3 +106,9 @@ C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.csp
 C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.dll
 C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.pdb
 C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.csprojAssemblyReference.cache
+C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.Migrations.InitialModel.resources
+C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.csproj.GenerateResource.cache
+C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.Migrations.AddMemberhsipType.resources
+C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.Migrations.PopulateMembershipTypes.resources
+C:\Users\asimo\source\repos\MovieStoreV3\MovieStoreV3\obj\Debug\MovieStoreV3.Migrations.ApplyAnnotationsToCustomer.resources
